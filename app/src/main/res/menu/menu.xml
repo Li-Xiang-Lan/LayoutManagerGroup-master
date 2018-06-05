@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item_0"
+        android:title="EchelonLayoutManager"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item_1"
+        android:title="PickerLayoutManager"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item_2"
+        android:title="SlideLayoutManager"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item_3"
+        android:title="SkidRightLayoutManager"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item_4"
+        android:title="BannerLayoutManager"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/item_5"
+        android:title="ViewPagerLayoutManager"
+        app:showAsAction="never"
+        />
+</menu>
